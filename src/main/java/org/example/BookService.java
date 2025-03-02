@@ -1,4 +1,6 @@
-package com.example.bookapp;
+package org.example;
+
+import com.example.bookapp.Book;
 
 import java.util.List;
 

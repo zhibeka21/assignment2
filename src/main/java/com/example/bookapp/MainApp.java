@@ -1,7 +1,6 @@
 package com.example.bookapp;
 
-import com.example.bookapp.config.AppConfig;
-import com.example.bookapp.service.BookService;
+import org.example.BookService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

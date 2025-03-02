@@ -1,4 +1,4 @@
-package com.example.bookapp.model;
+package com.example.bookapp;
 
 public class Book {
     private String title;

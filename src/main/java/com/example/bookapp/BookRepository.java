@@ -1,6 +1,5 @@
-package com.example.bookapp.repository;
+package com.example.bookapp;
 
-import com.example.bookapp.model.Book;
 import org.springframework.stereotype.Repository;
 import java.util.ArrayList;
 import java.util.List;
